@@ -4,15 +4,15 @@
 ### Esse projeto é a conclusão do Tutorial: Introdução ao ASP.NET Core MVC, e uma tarefa requisitada pelo Professor Átila.
 Link do Tutorial: https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio
 Todas as etapas abaixo foram concluídas:   
-0. Introdução                  
-1. Adicionar um controlador 
-2. Adicionar uma exibição     
-3. Adicionar um modelo        
-4. Trabalhar com Banco de Dados
-5. Exibições e ações do controlador
-6. Adicionar pesquisa
-7. Adicionar um novo campo
-8. Adicionar validação
-9. Examinar detalhes e excluir
+1. Introdução                  
+2. Adicionar um controlador 
+3. Adicionar uma exibição     
+4. Adicionar um modelo        
+5. Trabalhar com Banco de Dados
+6. Exibições e ações do controlador
+7. Adicionar pesquisa
+8. Adicionar um novo campo
+9. Adicionar validação
+10. Examinar detalhes e excluir
 
 ### Elaborado por: Matheus Machado de Oliveira
