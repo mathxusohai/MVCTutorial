@@ -16,4 +16,5 @@ Link do Tutorial utilizado: https://docs.microsoft.com/pt-br/aspnet/core/tutoria
 9. Adicionar validação
 10. Examinar detalhes e excluir
 
-### Elaborado por: Matheus Machado de Oliveira
+#### Elaborado por: Matheus Machado de Oliveira - Turma 1DM Desenvolvimento de Sistemas
+#### Senai Suiço-Brasileira Paulo Ernesto Tolle
