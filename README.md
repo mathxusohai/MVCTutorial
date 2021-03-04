@@ -4,7 +4,7 @@
 ### Esse projeto é a conclusão do Tutorial: Introdução ao ASP.NET Core MVC, e uma tarefa requisitada pelo Professor Átila.
 Link do Tutorial utilizado: https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio  
   
-Todas as etapas abaixo foram concluídas:   
+#### Todas as etapas abaixo foram concluídas:   
 1. Introdução                  
 2. Adicionar um controlador 
 3. Adicionar uma exibição     
