@@ -2,7 +2,8 @@
 &nbsp;
 ## Introdução ao ASP.NET Core MVC
 ### Esse projeto é a conclusão do Tutorial: Introdução ao ASP.NET Core MVC.
-Linguagem utilizada: C#  
+Linguagem utilizada: C# 
+  
 Link do Tutorial utilizado: https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio  
   
 #### Todas as etapas abaixo foram concluídas:   
