@@ -1,7 +1,7 @@
 # _Tutorial MVC/Curso de Desenvolvimento de Sistemas_
 &nbsp;
 ## Introdução ao ASP.NET Core MVC
-### Esse projeto é a conclusão do Tutorial: Introdução ao ASP.NET Core MVC, e uma tarefa requisitada pelo Professor Átila.
+### Esse projeto é a conclusão do Tutorial: Introdução ao ASP.NET Core MVC.
 Link do Tutorial utilizado: https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio  
   
 #### Todas as etapas abaixo foram concluídas:   
