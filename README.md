@@ -2,6 +2,10 @@
 &nbsp;
 ## Introdução ao ASP.NET Core MVC
 ### Esse projeto é a conclusão do Tutorial: Introdução ao ASP.NET Core MVC.
+#### O que é MVC?  
+#####  É um padrão de arquitetura de aplicações  que divide a aplicação em três camadas: a visão (view), o modelo (model), e o controlador (controller). Traduzido para o português, a expressão significa: modelo-visão-controlador.
+#### O padrão MVC foi desenvolvido em 1979 por Trygve Reenskaug com a finalidade de ser utilizado como arquitetura para aplicativos desketop. Entretanto, o padrão se popularizou para uso em sistemas web, a partir da adesão de milhares de Frameworks de mercado.  
+
 Linguagem utilizada: C# 
   
 Link do Tutorial utilizado: https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio  
