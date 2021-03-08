@@ -30,5 +30,9 @@ dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 dotnet add package Microsoft.Extensions.Logging.Debug   
 
 ##### Link do Tutorial utilizado: https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio   
-##### Link Site sobre MVC: https://www.portalgsti.com.br/2017/08/padrao-mvc-arquitetura-model-view-controller.html
+##### Link Site sobre MVC: https://www.portalgsti.com.br/2017/08/padrao-mvc-arquitetura-model-view-controller.html   
+
+Obs: Os prints podem ser encontrados na Pasta "Screen".
+
+
 
