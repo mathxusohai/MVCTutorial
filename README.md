@@ -18,5 +18,12 @@ Link do Tutorial utilizado: https://docs.microsoft.com/pt-br/aspnet/core/tutoria
 9. Adicionar validação
 10. Examinar detalhes e excluir
 
-#### Elaborado por: Matheus Machado de Oliveira - Turma 1DM Desenvolvimento de Sistemas
-#### Senai Suiço-Brasileira Paulo Ernesto Tolle
+#### Comandos dotnet usados no projeto:
+dotnet tool install --global dotnet-ef  
+dotnet tool install --global dotnet-aspnet-codegenerator  
+dotnet add package Microsoft.EntityFrameworkCore.SQLite  
+dotnet add package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore  
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design   
+dotnet add package Microsoft.EntityFrameworkCore.Design  
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer  
+dotnet add package Microsoft.Extensions.Logging.Debug  
